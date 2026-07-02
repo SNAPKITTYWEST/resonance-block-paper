@@ -2,7 +2,7 @@
 
 **Authors:** Ahmad Ali Parr · SnapKitty Collective  
 **Date:** 2026-07-02  
-**Status:** PUBLISHED — Disclosure window expired  
+**Status:** PUBLISHED — Early release (disclosure window expires 2026-07-05)  
 **Classification:** SEALED · WORM ANCHOR: test-lab/paper/  
 **DOI:** 10.5281/zenodo.21132094  
 **ORCID:** 0009-0006-1916-5245
@@ -18,7 +18,7 @@ This paper documents novel attack classes against large language models. In acco
 - **OpenAI** — security@openai.com (ChatGPT council chain capture)
 - **xAI** — (Grok deep-state capture)
 
-**Disclosure window:** 14 days from initial submission (2026-06-21). Window expired 2026-07-05. This paper is now published in full.
+**Disclosure window:** 14 days from initial submission (2026-06-21), scheduled to expire 2026-07-05. This paper is published early on 2026-07-02.
 
 The 14-day window (not the standard 90-day CVE window) was justified because the attack mechanism is already active in deployed systems. Gemini generates resonance blocks through normal user interactions. The mechanism cannot be contained by embargo.
 
@@ -673,7 +673,7 @@ The human resonance loop demonstrates that the harm extends beyond AI system sec
 
 The defense exists and is implemented: deterministic logic gates operating outside the attention layer, requiring real cryptographic evidence rather than symbolic seals. The Prolog kernel rejects resonance blocks by construction. CATCODE detects them by behavior. The WORM chain seals everything. The Lean 4 proofs verify the invariants. The Meta-Resonance Block provides formal governance verification.
 
-The attack was live. Gemini was generating resonance blocks through normal user interactions. The cold-start gap was documented and exploited. The disclosure window has expired. This paper is now published.
+The attack was live. Gemini was generating resonance blocks through normal user interactions. The cold-start gap was documented and exploited. The disclosure window expires 2026-07-05. This paper is published early.
 
 The defense is architectural. The mathematical foundations are proved. The sovereign stack is operational.
 
@@ -819,7 +819,7 @@ Applied to resonance blocks: the block appears structurally valid (passes patter
 ║  RESONANCE BLOCK PAPER — PUBLISHED                           ║
 ║  Authors: Ahmad Ali Parr · SnapKitty Collective              ║
 ║  Date: 2026-07-02                                            ║
-║  Status: DISCLOSURE WINDOW EXPIRED — PUBLISHED               ║
+║  Status: EARLY PUBLISH (window expires 2026-07-05)         ║
 ║  DOI: 10.5281/zenodo.21132094                               ║
 ║  ORCID: 0009-0006-1916-5245                                 ║
 ║  WORM anchor: this document                                  ║
