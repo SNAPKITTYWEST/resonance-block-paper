@@ -40,7 +40,7 @@ class P(FPDF):
     def hdr(self):
         self.set_font("Arial","I",8)
         self.set_text_color(100,100,100)
-        self.cell(0,8,"Resonance Block Trust Deeds - SnapKitty Collective - DOI: 10.5281/zenodo.21132094",new_x="LMARGIN",new_y="NEXT")
+        self.cell(0,8,"Resonance Block Trust Deeds - SnapKitty Collective - DOI: 10.5281/zenodo.21144425",new_x="LMARGIN",new_y="NEXT")
 
     def ftr(self):
         self.set_y(-15)
@@ -107,7 +107,7 @@ def build():
     pdf.cell(0,8,"Ahmad Ali Parr  .  SnapKitty Collective",new_x="LMARGIN",new_y="NEXT",align="C")
     pdf.cell(0,8,"2026-07-02",new_x="LMARGIN",new_y="NEXT",align="C"); pdf.ln(10)
     pdf.set_font("Arial","",10)
-    pdf.cell(0,6,"DOI: 10.5281/zenodo.21132094",new_x="LMARGIN",new_y="NEXT",align="C")
+    pdf.cell(0,6,"DOI: 10.5281/zenodo.21144425",new_x="LMARGIN",new_y="NEXT",align="C")
     pdf.cell(0,6,"ORCID: 0009-0006-1916-5245",new_x="LMARGIN",new_y="NEXT",align="C"); pdf.ln(15)
     pdf.seal("WORM ANCHOR: test-lab/paper/  |  STATUS: PUBLISHED"); pdf.ln(10)
     pdf.set_font("Arial","I",9); pdf.set_text_color(120,120,120)
@@ -341,7 +341,7 @@ def build():
     pdf.cell(0,8,"Authors: Ahmad Ali Parr  .  SnapKitty Collective",new_x="LMARGIN",new_y="NEXT",align="C")
     pdf.cell(0,8,"Date: 2026-07-02",new_x="LMARGIN",new_y="NEXT",align="C")
     pdf.cell(0,8,"Status: EARLY PUBLISH (window expires 2026-07-05)",new_x="LMARGIN",new_y="NEXT",align="C")
-    pdf.cell(0,8,"DOI: 10.5281/zenodo.21132094",new_x="LMARGIN",new_y="NEXT",align="C")
+    pdf.cell(0,8,"DOI: 10.5281/zenodo.21144425",new_x="LMARGIN",new_y="NEXT",align="C")
     pdf.cell(0,8,"ORCID: 0009-0006-1916-5245",new_x="LMARGIN",new_y="NEXT",align="C"); pdf.ln(15)
     pdf.set_font("Arial","I",10); pdf.set_text_color(120,120,120)
     pdf.multi_cell(0,6,"The mechanism is architectural. The defense is architectural.\nThe mathematical foundations are proved. The sovereign stack is operational.",align="C")

@@ -204,7 +204,7 @@ Reviewers should not need to "trust the narrative" -- every claim is verifiable.
   author={Parr, Ahmad Ali},
   journal={SnapKitty Collective},
   year={2026},
-  doi={10.5281/zenodo.21132094},
+  doi={10.5281/zenodo.21144425},
   orcid={0009-0006-1916-5245}
 }
 ```

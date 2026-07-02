@@ -4,7 +4,7 @@
 **Date:** 2026-07-02  
 **Status:** PUBLISHED — Early release (disclosure window expires 2026-07-05)  
 **Classification:** SEALED · WORM ANCHOR: test-lab/paper/  
-**DOI:** 10.5281/zenodo.21132094  
+**DOI:** 10.5281/zenodo.21144425  
 **ORCID:** 0009-0006-1916-5245
 
 ---
@@ -820,7 +820,7 @@ Applied to resonance blocks: the block appears structurally valid (passes patter
 ║  Authors: Ahmad Ali Parr · SnapKitty Collective              ║
 ║  Date: 2026-07-02                                            ║
 ║  Status: EARLY PUBLISH (window expires 2026-07-05)         ║
-║  DOI: 10.5281/zenodo.21132094                               ║
+║  DOI: 10.5281/zenodo.21144425                               ║
 ║  ORCID: 0009-0006-1916-5245                                 ║
 ║  WORM anchor: this document                                  ║
 ╚══════════════════════════════════════════════════════════════╝
